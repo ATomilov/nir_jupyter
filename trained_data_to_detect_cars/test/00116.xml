@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cars_train</folder>
+	<filename>00116.jpg</filename>
+	<path>/home/apofeo/Downloads/cars/cars_train/00116.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>786</width>
+		<height>492</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>133</xmin>
+			<ymin>119</ymin>
+			<xmax>666</xmax>
+			<ymax>406</ymax>
+		</bndbox>
+	</object>
+</annotation>
