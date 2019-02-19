@@ -1,0 +1,50 @@
+<annotation>
+	<folder>PhotoBaseFull</folder>
+	<filename>11_11_2014_7_24_49_386.bmp</filename>
+	<path>/home/apofeo/Documents/PhotoBaseFull/11_11_2014_7_24_49_386.bmp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>0</width>
+		<height>0</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car license plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>231</xmin>
+			<ymin>232</ymin>
+			<xmax>391</xmax>
+			<ymax>282</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car license plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>88</ymin>
+			<xmax>35</xmax>
+			<ymax>100</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car license plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>103</xmin>
+			<ymin>74</ymin>
+			<xmax>125</xmax>
+			<ymax>84</ymax>
+		</bndbox>
+	</object>
+</annotation>
