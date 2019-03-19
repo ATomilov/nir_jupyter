@@ -1,8 +1,10 @@
 im_base_to_angle
 im_base_to_angle.*
 /trained_data/*
+trained_data/*
 /object-detection/ssd_mobilenet_v1_coco_11_06_2017/*
 object-detection/ssd_mobilenet_v1_coco_11_06_2017/model.ckpt.data-00000-of-00001
+*/*/ssd_mobilenet_v1_coco_11_06_2017/model.ckpt.data-00000-of-00001
 object-detection/car_license_plate/ssd_mobilenet_v1_coco_11_06_2017/model.ckpt.data-00000-of-00001
 trained_model_files/angles/H5/TMWA_v19_DI_PA_DN_and_L_PM_VGG19_16.04_.h5
 trained_model_files/angles/H5/TMWA_v13_DI_PA_different_neurons_Nadam_0.2_.h5
