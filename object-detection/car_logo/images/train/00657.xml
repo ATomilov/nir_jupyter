@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cars_train_with_logo</folder>
+	<filename>00657.jpg</filename>
+	<path>/home/apofeo/Downloads/cars_oldDB/cars_train_with_logo/00657.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>275</width>
+		<height>184</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car logo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>190</xmin>
+			<ymin>69</ymin>
+			<xmax>203</xmax>
+			<ymax>80</ymax>
+		</bndbox>
+	</object>
+</annotation>

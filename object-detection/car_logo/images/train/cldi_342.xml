@@ -1,0 +1,26 @@
+<annotation>
+	<folder>car_logos_detect_imgs</folder>
+	<filename>cldi_342.png</filename>
+	<path>/home/apofeo/Documents/car_logos_detect_imgs/cldi_342.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car logo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>91</xmin>
+			<ymin>111</ymin>
+			<xmax>148</xmax>
+			<ymax>162</ymax>
+		</bndbox>
+	</object>
+</annotation>

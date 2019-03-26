@@ -1,0 +1,38 @@
+<annotation>
+	<folder>car_logos_detect_imgs</folder>
+	<filename>cldi_533.png</filename>
+	<path>/home/apofeo/Documents/car_logos_detect_imgs/cldi_533.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car logo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>82</xmin>
+			<ymin>15</ymin>
+			<xmax>107</xmax>
+			<ymax>42</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car logo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>108</xmin>
+			<ymin>15</ymin>
+			<xmax>133</xmax>
+			<ymax>39</ymax>
+		</bndbox>
+	</object>
+</annotation>

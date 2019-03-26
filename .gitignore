@@ -2,6 +2,7 @@ im_base_to_angle
 im_base_to_angle.*
 /trained_data/*
 trained_data/*
+object-detection/*/data/*
 /object-detection/ssd_mobilenet_v1_coco_11_06_2017/*
 object-detection/ssd_mobilenet_v1_coco_11_06_2017/model.ckpt.data-00000-of-00001
 */*/ssd_mobilenet_v1_coco_11_06_2017/model.ckpt.data-00000-of-00001

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>car_logos_detect_imgs</folder>
+	<filename>cldi_739.png</filename>
+	<path>/home/apofeo/Documents/car_logos_detect_imgs/cldi_739.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car logo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>33</xmin>
+			<ymin>83</ymin>
+			<xmax>54</xmax>
+			<ymax>105</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car logo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>45</xmin>
+			<ymin>60</ymin>
+			<xmax>64</xmax>
+			<ymax>86</ymax>
+		</bndbox>
+	</object>
+</annotation>
